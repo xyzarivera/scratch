@@ -5,7 +5,7 @@ https://nodejs.org/api/modules.html#caching
 > _Modules are cached after the first time they are loaded._ 
 
 imported modules are cached and shared by reference - MUTABLE
-once mutated, every other module that imports is will get the changes
+once mutated, every other module that imports will get the changes
 
 ### Fix
 
