@@ -1,3 +1,4 @@
 export const updateKey = (input) => {
-  return input.key = 'bar'
+  input.key = 'bar'
+  return input.key
 }
