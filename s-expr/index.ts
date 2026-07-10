@@ -70,3 +70,5 @@ console.assert(2 === evaluate("(* -1 -2)"));
 console.assert(-2 === evaluate("(* -1 2)"));
 console.assert(-2 === evaluate("(* 1 -2)"));
 console.assert(-17.5 === evaluate("(* 5 -3.5)"));
+
+console.log("file ran without issues");
